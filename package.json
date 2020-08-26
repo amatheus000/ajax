@@ -16,5 +16,6 @@
   ],
   "devDependencies": {
     "parcel": "^1.12.4"
-  }
+  },
+  "repository": "https://github.com/amatheus000/ajax.git"
 }

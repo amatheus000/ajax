@@ -1,0 +1,27 @@
+body,
+#root {
+  text-align: center;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: blue;
+  color: white;
+  text-shadow: 0.1rem 0.1rem 0 black;
+}
+
+div {
+  border: 0.25rem solid black;
+  border-radius: 0.5rem;
+  padding: 3rem;
+  margin: 3rem;
+}
+
+#category {
+  text-transform: uppercase;
+  color: gold;
+}
+
+#clue {
+  text-transform: capitalize;
+}
